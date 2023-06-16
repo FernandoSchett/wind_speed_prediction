@@ -25,12 +25,15 @@
 
 The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
 
-- 
-- 
+- tensorflow, 2.5.0.
+- numpy, 1.19.5.
+- pandas, 1.3.0.
+- matplotli, 3.4.2.
+
 
 For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
 
-    sudo command_for_installing_deppendecies
+    pip3 install -r requirements.txt
 
 ## How to run it 🏃:
 
