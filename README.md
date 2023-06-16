@@ -84,7 +84,7 @@ First, clone this repository. After that, simply execute the ```wind_speed_predi
 
 ## Development Process ⚙️:
 
-I used 
+This project was developed without following a specific methodology, allowing for flexible work hours. Feedback from mentors was received once a week to guide the development process. 
 
 ### Tools Used 🛠️: 
 
