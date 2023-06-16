@@ -12,7 +12,7 @@
 ## Special thanks to 🥰:
 
 - [Murilo Boratto](https://github.com/muriloboratto), my advisor for their invaluable guidance throughout this project.
-- [Anúsio Correia](https://www.linkedin.com/in/anusiocorreia/), your experience, knowledge and refere material have been invaluable to my progress.
+- [Anúsio Correia](https://www.linkedin.com/in/anusiocorreia/), your experience, knowledge and reference material have been invaluable to my progress.
 
 ## About 🤔:
 
