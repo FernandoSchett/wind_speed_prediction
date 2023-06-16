@@ -29,3 +29,14 @@ __pycache__/
 
 # PyTorch Lightning generated files (optional)
 *.ckpt
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+#Pytorch
+
+*.json
+*.h5

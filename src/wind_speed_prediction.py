@@ -20,14 +20,14 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 # Read the input file:
-x_train = pd.read_csv("./datasets/wind_data_train.csv", sep=",", header=0)
+x_train = pd.read_csv("/home/fernando/Documents/github/wind_speed_prediction/datasets/wind_data_train.csv", sep=",", header=0)
 
 values_title = list(x_train.columns.values)
 
 y_train = x_train.iloc[:, [-1]]
 x_train = x_train.iloc[:, [*range(len(values_title)-1)]]
 
-x_test = pd.read_csv("./datasets/wind_data_test.csv", sep=",", header=0)
+x_test = pd.read_csv("/home/fernando/Documents/github/wind_speed_prediction/datasets/wind_data_test.csv", sep=",", header=0)
 
 y_test = x_test.iloc[:, [-1]]
 x_test = x_test.iloc[:, [*range(len(values_title)-1)]]

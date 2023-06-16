@@ -32,6 +32,7 @@ In summary, heres what you're gonna need in order to run the project:
 - numpy, 1.23.5.
 - pandas, 2.0.2.
 - matplotlib, 3.7.1.
+- pydot, 1.4.2.
 
 For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
 
