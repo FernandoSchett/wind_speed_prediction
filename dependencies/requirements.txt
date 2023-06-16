@@ -4,3 +4,4 @@ pandas==2.0.2
 matplotlib==3.7.1
 pydot==1.4.2
 graphviz==2.43.0
+keras==2.12.0
