@@ -1,8 +1,8 @@
 <h1 align="center"> 🌬️ Wind Speed Predtion Model 🌬️</h1>
 
 <div align="center">
-	<a href="link_for_webite">
-	<img height = "250em" src = "" />
+	<a href="">
+	<img height = "250em" src = "https://github.com/FernandoSchett/wind_speed_prediction/assets/80331486/c83a1095-30a6-4c4b-b610-313fd8a7e59a" />
     </a>
 </div>
 
@@ -10,8 +10,9 @@
 - [Fernando Schettini](https://github.com/FernandoSchett).
 
 ## Special thanks to 🥰:
-- [Murilo Boratto](https://github.com/muriloboratto), Your experience and knowledge have been invaluable to our progress.
-- [Anúsio](https://github.com/muriloboratto), Your experience and knowledge have been invaluable to our progress.
+
+- [Murilo Boratto](https://github.com/muriloboratto), my advisor for their invaluable guidance throughout this project.
+- [Anúsio](), Your experience and knowledge have been invaluable to our progress.
 
 ## About 🤔:
 
@@ -33,7 +34,7 @@ For installing dependencies more quickly, you can run the following command at t
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, simply execute the ```file_name``` file with the command:
+First, clone this repository. After that, simply execute the ```f``` file with the command:
 
     sudo command_for_running_project
 
@@ -49,7 +50,7 @@ Developers used [Trello]() to get things organized, each one using their own bra
 
 ## How to contribute 🫂:
 
-Feel free to create a new branch, fork the project, , create a new Issue or make a pull request contact one of us to develop at <app_name>.
+Feel free to create a new branch, fork the project, create new issue or make a pull request contact one of us to develop at this code.
 
 ## Licence 📜:
 
