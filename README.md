@@ -35,7 +35,7 @@ In summary, heres what you're gonna need in order to run the project:
 
 For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
 
-    pip3 install -r requirements.txt
+    pip3 install -r dependencies/requirements.txt
 
 ## How to run it 🏃:
 
