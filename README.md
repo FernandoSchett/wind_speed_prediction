@@ -12,7 +12,7 @@
 ## Special thanks to 🥰:
 
 - [Murilo Boratto](https://github.com/muriloboratto), my advisor for their invaluable guidance throughout this project.
-- [Anúsio](), Your experience and knowledge have been invaluable to our progress.
+- [Anúsio Correia](https://www.linkedin.com/in/anusiocorreia/), your experience, knowledge and refere material have been invaluable to my progress.
 
 ## About 🤔:
 
@@ -21,15 +21,17 @@
 - 
 - 
 
+## Results 📈:
+
 ## Dependencies 🚚:
 
-The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
+In summary, heres what you're gonna need in order to run the project:
 
-- tensorflow, 2.5.0.
-- numpy, 1.19.5.
-- pandas, 1.3.0.
-- matplotli, 3.4.2.
-
+- python3
+- tensorflow, 2.12.*.
+- numpy, 1.23.5.
+- pandas, 2.0.2.
+- matplotlib, 3.7.1.
 
 For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
 
@@ -37,9 +39,9 @@ For installing dependencies more quickly, you can run the following command at t
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, simply execute the ```f``` file with the command:
+First, clone this repository. After that, simply execute the ```wind_speed_prediction.py``` file with the command:
 
-    sudo command_for_running_project
+    python3 src/wind_speed_prediction.py
 
 ## Development Process ⚙️:
 
@@ -49,7 +51,7 @@ Developers used [Trello]() to get things organized, each one using their own bra
 
 - [Google Colab](https://research.google.com/colaboratory/). 
 - [Jupyter Notebook](https://jupyter.org/).
-- [Pytorch](https://pytorch.org/).
+- [TensorFlow](https://www.tensorflow.org/?hl=pt-br).
 
 ## How to contribute 🫂:
 
